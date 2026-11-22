@@ -9,8 +9,8 @@ AVALIAÇÃO PRÁTICA 1 (AVP1) -- LABORATÓRIO N1 (17/11/2026)
 Docente: Prof. Me. Reginaldo Pereira Fernandes
 ================================================================================
 
-Nome do Discente / Dupla: ____________________________________________________
-Matrícula(s): _______________________________________________________________
+Nome do Discente / Dupla: ALICE MARIA DE LIMA MELO
+Matrícula(s): 20241173010031
 
 INSTRUÇÕES OBRIGATÓRIAS:
 1. Certifique-se de que os containers do Redis e MongoDB estão em execução:
